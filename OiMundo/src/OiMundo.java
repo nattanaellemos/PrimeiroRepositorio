@@ -6,6 +6,8 @@ public class OiMundo {
 		System.out.println("Oi Mundo!");
 		
 		System.out.println("oi");
+		
+		System.out.println("salve");
 	}
 
 }
